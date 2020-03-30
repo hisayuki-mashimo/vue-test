@@ -1,0 +1,4 @@
+yarn add @vue/cli
+yarn vue create my-project
+cd my-project
+yarn run serve
